@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AshishkumarBhayani/cicdtest/issues"
   },
-  "homepage": "https://github.com/AshishkumarBhayani/cicdtest#readme"
+  "homepage": "https://github.com/AshishkumarBhayani/cicdtest#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
